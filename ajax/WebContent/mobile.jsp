@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 <script type="text/javascript" src="./jq/jquery.js"></script>
 <script type="text/javascript">
+// bbb
 /* 新增的注释 新增的内容*/
 	// 原生js方法使用ajax
 	/*
